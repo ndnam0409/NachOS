@@ -1,2 +1,2 @@
-### Project 3 in Operating System Course
-## Synchronous programming in Nachos
+## Project 3 in Operating System Course (2022-2023)
+### Synchronous programming in Nachos
